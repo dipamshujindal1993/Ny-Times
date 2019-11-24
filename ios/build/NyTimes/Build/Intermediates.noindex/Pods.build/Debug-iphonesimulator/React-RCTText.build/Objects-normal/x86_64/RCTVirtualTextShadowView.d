@@ -1,0 +1,27 @@
+dependencies: \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/Libraries/Text/VirtualText/RCTVirtualTextShadowView.m \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Target\ Support\ Files/React-RCTText/React-RCTText-prefix.pch \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTVirtualTextShadowView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTBaseTextShadowView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTShadowView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTComponent.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTLayout.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTDefines.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTPackagerConnection.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/Yoga/yoga/Yoga.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/Yoga/yoga/YGValue.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTRootView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTBridge.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTBridgeDelegate.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTBridgeModule.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTFrameUpdate.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTInvalidating.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTTextAttributes.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTTextDecorationLineType.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTTextTransform.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTShadowView+Layout.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/React-Core/React/RCTRawTextShadowView.h

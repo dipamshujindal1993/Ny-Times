@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.mm \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Target\ Support\ Files/React-Core/React-Core-prefix.pch \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingProxyRootView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTRootView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTBridge.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTBridgeDelegate.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTJavaScriptLoader.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTDefines.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTInspectorDevServerHelper.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTPackagerConnection.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTBridgeModule.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTFrameUpdate.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTInvalidating.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/Surface/SurfaceHostingView/RCTSurfaceHostingView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceDelegate.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceStage.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTSurfaceSizeMeasureMode.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTAssert.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTUtils.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/RCTRootContentView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTView.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTBorderStyle.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTComponent.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Private/React-Core/React/RCTPointerEvents.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/RCTRootViewDelegate.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Base/Surface/RCTSurface.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/Yoga/yoga/YGEnums.h \
+  /Users/dipanshujindal/Documents/projects/React-native/NyTimes/ios/Pods/Headers/Public/Yoga/yoga/YGMacros.h
