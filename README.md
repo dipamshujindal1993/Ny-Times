@@ -1,7 +1,7 @@
 # Ny-Times
 In Ny Times app user can see most popular News and Articles. User can choose any Artile and News from the Home Screen and see the detailed news in detail screen. 
 
-# Installing
+# Installation
 In this app I have used Yarn.
 So here are few setps to setup it app at your end.
 
